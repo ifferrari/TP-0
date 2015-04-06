@@ -1,2 +1,3 @@
-# TP-0
-Hello World
+# TP 0
+Primer ejercicio:
+Hello World!
